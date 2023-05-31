@@ -1,0 +1,5 @@
+.settings
+build
+.DS_Store
+MANIFEST.MF
+.classpath
