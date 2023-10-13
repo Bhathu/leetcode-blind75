@@ -23,7 +23,6 @@ public class MaxConsecutiveOnes3 {
 	public static void main(String[] args) {
 		int[] nums = new int[] {1,1,1,0,0,0,1,1,1,1,0};
 		System.out.println(longestOnes(nums, 2));
-
 	}
 
 }
